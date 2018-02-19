@@ -1,2 +1,2 @@
 Flask=0.11
-Office365-REST-Python-Client
+Office365-REST-Python-Client=2.0
